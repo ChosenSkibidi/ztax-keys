@@ -1,0 +1,14 @@
+{
+  "name": "ztax-keys",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "kv_namespaces": [
+    { "binding": "KEYS", "id": "PASTE_KV_NAMESPACE_ID_HERE" }
+  ],
+  "vars": {
+    "GUILD_ID": "PASTE_SERVER_ID_HERE",
+    "DISCORD_APP_ID": "PASTE_APPLICATION_ID_HERE",
+    "DISCORD_PUBLIC_KEY": "PASTE_PUBLIC_KEY_HERE",
+    "REQUIRED_ROLE_ID": ""
+  }
+}
