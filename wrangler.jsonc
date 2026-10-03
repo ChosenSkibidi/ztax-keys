@@ -3,7 +3,7 @@
   "main": "src/index.js",
   "compatibility_date": "2026-09-01",
   "kv_namespaces": [
-    { "binding": "KEYS", "id": "PASTE_KV_NAMESPACE_ID_HERE" }
+    { "binding": "KEYS", "id": "4cb5d9c52c424680ae0d8bc2dbc91944" }
   ],
   "vars": {
     "GUILD_ID": "4cb5d9c52c424680ae0d8bc2dbc91944",
